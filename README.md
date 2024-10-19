@@ -1,0 +1,4 @@
+This project focuses on analyzing global population trends from 1960 to 2023 using World Bank data. The analysis explores the population growth of various countries and regions, providing visual insights into population distributions, trends, and comparisons.
+Key visualizations include histograms showing population distributions in 1960 and 2023, line charts tracking the growth of specific countries like Turkey, India, China, and Peru, and comparisons of population growth across major countries.
+Additionally, the project highlights the top populated countries, compares population growth rates, and examines global population trends over time. All visualizations are created using Python with Pandas and Matplotlib libraries for data manipulation and visualization.
+This project serves as a valuable resource for understanding how populations have evolved globally over time, offering both general trends and country-specific insights.
